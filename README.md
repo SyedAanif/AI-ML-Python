@@ -24,3 +24,14 @@
     - t-test
     - Test of proportions and variance
     - ANOVA and Chi-Square Test
+#### 6.  Supervised Learning
+  - Regression
+  - Classification
+    - Logistic
+    - Naive Bayes
+    - K-NN
+    - SVM
+    - Decision Tree
+#### 7.  Ensemble Techniques
+  - Bagging
+  - Boosting
