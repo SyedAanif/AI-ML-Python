@@ -42,3 +42,16 @@
   - Centroid Based Clustering
     - K-Means
   - Principal Component Analysis
+#### 7.  Feature Engineering and Model Tuning
+  - EDA
+  - Cross Validation
+    - K-Fold Cross Validation
+    - Leave One Out Cross Validation(LOOCV)
+  - Sampling
+    - Bootstrap Sampling
+    - Up-Sampling
+    - Down-Sampling
+  - Pipeline
+  - Hyperparameter Tuning
+    - Grid Search CV
+    - Randomized Search CV
