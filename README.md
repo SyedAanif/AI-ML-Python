@@ -35,3 +35,10 @@
 #### 7.  Ensemble Techniques
   - Bagging
   - Boosting
+#### 6.  Unsupervised Learning
+  - Connectivity Based Clustering
+    - Agglomerative
+    - Divisive
+  - Centroid Based Clustering
+    - K-Means
+  - Principal Component Analysis
