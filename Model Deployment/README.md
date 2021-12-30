@@ -3,6 +3,7 @@
 #### Model Serialization
   - pickle
   - joblib
+  - Updatable Classifier
 #### Model Productionalization
   - Batch-Mode
   - Real-Time using FLASK
