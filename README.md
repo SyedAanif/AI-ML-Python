@@ -35,14 +35,14 @@
 #### 7.  Ensemble Techniques
   - Bagging
   - Boosting
-#### 6.  Unsupervised Learning
+#### 8.  Unsupervised Learning
   - Connectivity Based Clustering
     - Agglomerative
     - Divisive
   - Centroid Based Clustering
     - K-Means
   - Principal Component Analysis
-#### 7.  Feature Engineering and Model Tuning
+#### 9.  Feature Engineering and Model Tuning
   - EDA
   - Cross Validation
     - K-Fold Cross Validation
@@ -55,3 +55,12 @@
   - Hyperparameter Tuning
     - Grid Search CV
     - Randomized Search CV
+ #### 10.  Recommendation Systems
+  - Popularity Based
+  - Content Based
+  - Matrix Factorization Model
+    - Singular Value Decomposition(SVD)
+  - Collaborative Filtering
+    - User-User
+    - Item-Item
+  - Association Rule Mining or Apriori Principle or Market Basket Analysis
