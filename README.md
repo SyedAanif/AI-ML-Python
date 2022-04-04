@@ -1,6 +1,6 @@
 # AI-ML-Python
 #### This repo contains learnings about `Artificial Intelligence` and `Machine Learning` using `Python Jupyter Notebooks` or Google Drive link to `Google Colab Notebooks` downloaded as HTML and .ipynb files
-### <a href="https://github.com/SyedAanif/AI-ML-Python/tree/master/basics-python-with-jupyter-notebook" target="_blank">Python Basics</a>
+<a href="https://github.com/SyedAanif/AI-ML-Python/tree/master/basics-python-with-jupyter-notebook" target="_blank">Python Basics</a>
 ### [Python Basics](https://github.com/SyedAanif/AI-ML-Python/tree/master/basics-python-with-jupyter-notebook){target="blank" rel="noopener"}
 ### [Artificial Intelligence and Machine Learning](https://github.com/SyedAanif/AI-ML-Python/tree/master/Machine%20Learning){:target="_blank"}
 ### [Model Deployment using Docker](https://github.com/SyedAanif/AI-ML-Python/tree/master/Model%20Deployment){:target="_blank"}
