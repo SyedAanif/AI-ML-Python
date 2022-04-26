@@ -10,4 +10,7 @@
   - [Advanced Computer Vision](https://drive.google.com/drive/folders/1HBh2666qkk0ZkculywhjWQLzI_SVZt0S?usp=sharing)
   - [Projects](https://drive.google.com/drive/folders/1EJURSCU4cjMmXXwPrGciqPQwr8JO_Ew3?usp=sharing)
 ### [Deep Learning](https://github.com/SyedAanif/AI-ML-Python/tree/master/Deep%20Learning)
+### [Reinforcement Learning](https://github.com/SyedAanif/AI-ML-Python/tree/master/Reinforcement%20Learning)
+  - Q-Learning
+  - Deep Q Networks(DQNs)
 ### [Other Miscellaneous Topics](https://github.com/SyedAanif/AI-ML-Python/tree/master/Other)
