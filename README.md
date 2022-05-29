@@ -10,6 +10,9 @@
   - [Advanced Computer Vision](https://drive.google.com/drive/folders/1HBh2666qkk0ZkculywhjWQLzI_SVZt0S?usp=sharing)
   - [Projects](https://drive.google.com/drive/folders/1EJURSCU4cjMmXXwPrGciqPQwr8JO_Ew3?usp=sharing)
 ### [Deep Learning](https://github.com/SyedAanif/AI-ML-Python/tree/master/Deep%20Learning)
+### Natural Language Processing
+  - [NLP GitHub](https://github.com/SyedAanif/AI-ML-Python/tree/master/Natural%20Language%20Processing)
+  - [NLP Google Colab](https://drive.google.com/drive/folders/1VZOT2DlhJHqks_3n9PyFiLU3lN5ph4Z-?usp=sharing)
 ### [Reinforcement Learning](https://github.com/SyedAanif/AI-ML-Python/tree/master/Reinforcement%20Learning)
   - Q-Learning
   - Deep Q Networks(DQNs)
