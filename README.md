@@ -19,7 +19,6 @@
 ### [Generative Adversarial Networks-GANs](https://drive.google.com/drive/folders/1M331lLFzrXgSZGQx_-UNNlVQYltY7xrc?usp=sharing)
   - Deep Convolutional GAN - DCGAN
   - Conditional GAN - CGAN
-  - Semi-Supervised Learning GANs
   - [GAN Lab](https://poloclub.github.io/ganlab/)
   - [GAN Playground](https://reiinakano.com/gan-playground/)
 ### [Other Miscellaneous Topics](https://github.com/SyedAanif/AI-ML-Python/tree/master/Other)
